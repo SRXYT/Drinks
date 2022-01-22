@@ -28,6 +28,8 @@ section{
 }
 
 header{
+     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7), rgba(0, 0, 0, 0.7)), url(images/hero.jpg);
     background-size: cover;
     background-position: center;
     height:100vh;
@@ -448,13 +450,4 @@ footer p{
 .mobile-nav-icon i{
     font-size: 200%;
     color: #fff;
-}
-
-#myVideo{
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -2;
 }
