@@ -72,15 +72,15 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit]{
-    background-color: #e67e22;
-    border: 1px solid #e67e22;
+    background-color: #f54242;
+    border: 1px solid #f54242;
     color:#fff;
     margin-right:15px;
 }
 .btn-ghost:link,
 .btn-ghost:visited {
-    border:1px solid #e67e22;
-    color:#e67e22;
+    border:1px solid #f54242;
+    color: #f54242;
     
 }
 
@@ -88,8 +88,8 @@ input[type=submit]{
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active{
-    background-color: #cf6d17;
-    -webkit-background-color: #cf6d17;
+    background-color: #f54242;
+    -webkit-background-color: #f54242;
     color: #fff
 }
 
@@ -120,7 +120,7 @@ input[type=submit]:active{
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #e67e22;
+    border-bottom: 2px solid #f54242;
 }
 
 .section-features .long-copy {
@@ -131,7 +131,7 @@ input[type=submit]:active{
 .icon-big{
     font-size: 350%;
     display: block;
-    color:#e67e22;
+    color: #f54242;
     margin-bottom: 10px;
 }
 h2{
@@ -232,11 +232,11 @@ h1,h2,h3{
     bottom: 65px;
 }
 .works-step div {
-    color: #e67e22;
+    color: #f54242;
     font-size: 150%;
     height: 54px;
     width: 54px;
-    border: 2px solid #e67e22;
+    border: 2px solid #f54242;
     border-radius: 50%;
     display:inline-block;
     text-align: center;
@@ -261,7 +261,7 @@ h3 {
     display: inline-block;
     width: 30px;
     text-align: center;
-    color: #e67e22;
+    color: #f54242;
     font-size: 120%;
     margin-right: 10px;
     line-height: 120%;
@@ -269,10 +269,10 @@ h3 {
     margin-top: -5px;
 }
 a:link, a:visited{
-    color: #e67e22;
+    color: #f54242;
     text-decoration: none; /* NOTE: UNABLE TO MAKE TRANSITION LINK WORK! */
     padding-bottom: 1px;
-    border-bottom: 1px solid #e67e22;
+    border-bottom: 1px solid #f54242;
     -webkit-transition: border-bottom 0.2s, color 0.2s;
     transition: border-bottom 0.2s, color 0.2s;
 }
@@ -339,7 +339,7 @@ cite img{
     font-size: 300%;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #e67e22;
+    color: #f54242;
 }
 .plan-price span{
     font-size: 30%;
